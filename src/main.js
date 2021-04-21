@@ -8,5 +8,6 @@ import store from "./store";
 // createApp(App).use(store).use(router).mount("#app");
 new Vue({
     render: h => h(App),
-    router
+    router,
+    store
 }).$mount('#app')
