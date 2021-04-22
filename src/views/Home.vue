@@ -52,6 +52,7 @@ export default {
     display: inline-block;
     box-sizing: border-box;
     height: 44px;
+    width: 80px;
     margin: 0;
     padding: 0;
     font-size: 16px;
